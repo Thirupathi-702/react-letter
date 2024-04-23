@@ -1,3 +1,7 @@
+# Developed by Thirupathi Website Link: [Click Here](https://letter-from-chotu.vercel.app/)
+
+How to use this?
+Just fork the repository and install dependencies and run 'npm start' and done :)
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
